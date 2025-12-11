@@ -8,7 +8,7 @@ const Navbar= () => {
     <div className='navbar'>
         <div className='logo-container'>
             <div className='logo-image'>
-                <img src='/GPCLOGONOBG.png' width='100px' />
+                <img src='./GPCLOGONOBG.png' width='100px' />
             </div>
             <div>
                 <span className='main-text'>Gospel</span>
